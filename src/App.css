@@ -69,3 +69,7 @@ input[type=submit] {
   flex-basis: 80%;
   flex-grow: 1;
 }
+.error {
+  background: red;
+}
+.message {background: grey;}
